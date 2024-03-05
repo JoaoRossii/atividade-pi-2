@@ -1,0 +1,31 @@
+.container{
+    width: 500px;
+    height: 500px;
+    background: #ff6161;
+    border-radius: 10px;
+}
+.divo{
+    width: 250px;
+    height: 250px;
+    background: #f1e472;
+    border-radius: 20px;
+}
+.divo p{
+    color: #fff;
+    background: #00ff1a;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: 800;
+}
+.divi{
+    width: 50%;
+    height: 50vh;
+    background: rgb(92, 214, 241);
+    border-radius: 20px;
+}
+    .divD{
+        width: 75vw;
+        height: 50%;
+        background: rgb(13, 0, 255);
+        border-radius: 20px;
+    }
